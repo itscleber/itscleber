@@ -18,7 +18,7 @@ I work across cloud infrastructure, architecture, observability, and platform en
 - 📦 System design & scalability (event-driven, REST/gRPC, async flows)
 - 🧱 Platform engineering & internal tooling
 - 🧰 Developer experience & operational excellence
-- 💰 FinOps & cost-aware architecture (usage analysis, automation, savings plans)
+- 💰 FinOps & cost-aware architecture
 - 🌀 Distributed systems & fault tolerance
 - 🧼 Production-readiness, chaos resilience, graceful degradation
 
