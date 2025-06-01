@@ -27,7 +27,7 @@ I work across cloud infrastructure, architecture, observability, and platform en
 ## 📬 Connect
 - 🌐 [itscleber.tech](https://itscleber.tech)
 - 🐙 [github.com/itscleber](https://github.com/itscleber)
-- 💼 [linkedin.com/in/cleber](https://www.linkedin.com/in/cleber-azeredo-324810191/)
+- 💼 [linkedin.com/in/cleber](https://www.linkedin.com/in/cleber-azeredo/)
 
 ---
 
